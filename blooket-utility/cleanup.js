@@ -1,1 +1,1 @@
-delete blooketUtility.prefs.blooketui;
+delete blooketUtility.prefs.blooketui;this probably doesnot work
